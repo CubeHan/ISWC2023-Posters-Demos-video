@@ -11,3 +11,7 @@ The demonstration video of the system can be accessed at https://youtu.be/T0S8ah
 
 ## print message
 ![print](./print.gif)
+
+
+## 中/Eng
+![language](./language.gif)
